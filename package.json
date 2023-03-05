@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "uticket-bot",
+  "version": "0.1.0",
+  "description": "A custom Discord ticket bot",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "warcraftbroker",
+  "license": "MIT"
+}
